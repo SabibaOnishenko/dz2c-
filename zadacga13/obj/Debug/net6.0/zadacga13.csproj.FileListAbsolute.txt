@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\bin\Debug\net6.0\zadacga13.exe
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\bin\Debug\net6.0\zadacga13.deps.json
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\bin\Debug\net6.0\zadacga13.runtimeconfig.json
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\bin\Debug\net6.0\zadacga13.dll
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\bin\Debug\net6.0\zadacga13.pdb
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\obj\Debug\net6.0\zadacga13.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\obj\Debug\net6.0\zadacga13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\obj\Debug\net6.0\zadacga13.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\obj\Debug\net6.0\zadacga13.AssemblyInfo.cs
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\obj\Debug\net6.0\zadacga13.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\obj\Debug\net6.0\zadacga13.dll
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\obj\Debug\net6.0\refint\zadacga13.dll
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\obj\Debug\net6.0\zadacga13.pdb
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\obj\Debug\net6.0\zadacga13.genruntimeconfig.cache
+C:\Users\USER\Desktop\c# 1\dz c#\zadacga13\obj\Debug\net6.0\ref\zadacga13.dll
