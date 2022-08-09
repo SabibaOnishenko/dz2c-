@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\c# 1\\dz c#\\dz c#.csproj": {}
+    "C:\\Users\\USER\\Desktop\\c# 1\\dz c#\\zadacha10\\dz c#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\c# 1\\dz c#\\dz c#.csproj": {
+    "C:\\Users\\USER\\Desktop\\c# 1\\dz c#\\zadacha10\\dz c#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\c# 1\\dz c#\\dz c#.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\c# 1\\dz c#\\zadacha10\\dz c#.csproj",
         "projectName": "dz c#",
-        "projectPath": "C:\\Users\\USER\\Desktop\\c# 1\\dz c#\\dz c#.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\c# 1\\dz c#\\zadacha10\\dz c#.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\c# 1\\dz c#\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\c# 1\\dz c#\\zadacha10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
